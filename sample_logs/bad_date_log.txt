@@ -1,0 +1,6 @@
+This line has no date prefix.
+2025-05-26 10:00:00 INFO Backup started.
+BADDATE WARNING Unexpected disk behavior.
+2025-05-26 10:15:00 ERROR Disk read failure.
+INVALIDDATE FAILED LOGIN suspicious attempt.
+2025-05-26 10:30:00 INFO Backup completed.

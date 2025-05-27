@@ -1,0 +1,9 @@
+Warnings Found: 3
+Failed Logins Found: 4
+
+Top 5 Errors:
+1. 2025-05-25 12:02:43 ERROR Failed to connect to database. — 1 times
+2. 2025-05-25 12:05:33 ERROR Failed login attempt from IP 192.168.1.10. — 1 times
+3. 2025-05-25 12:07:59 ERROR Failed to write to log file. — 1 times
+4. 2025-05-25 12:10:37 ERROR Failed to send email notification. — 1 times
+5. 2025-05-25 12:13:19 ERROR Database timeout error. — 1 times

@@ -1,0 +1,13 @@
+2025-05-25 12:00:01 INFO Server started successfully.
+2025-05-25 12:01:15 WARNING Disk space running low.
+2025-05-25 12:02:43 ERROR Failed to connect to database.
+2025-05-25 12:03:05 INFO User admin logged in.
+2025-05-25 12:04:11 WARNING High memory usage detected.
+2025-05-25 12:05:33 ERROR Failed login attempt from IP 192.168.1.10.
+2025-05-25 12:06:45 INFO Backup completed successfully.
+2025-05-25 12:07:59 ERROR Failed to write to log file.
+2025-05-25 12:09:22 FAILED LOGIN for user root.
+2025-05-25 12:10:37 ERROR Failed to send email notification.
+2025-05-25 12:11:53 INFO System health check passed.
+2025-05-25 12:12:48 FAILED LOGIN for user guest.
+2025-05-25 12:13:19 ERROR Database timeout error.

@@ -30,3 +30,27 @@ LogFileAnalyzer/<br>
 ├── log_analyzer.py <br>
 └── tests/ <br>
 └── test_log_analyzer.py <br>
+
+## Getting Started
+
+1. **Install dependencies (if any)**  
+   *(No external libraries needed for basic usage.)*
+
+2. **Run the Analyzer**
+
+```bash
+python log_analyzer.py
+
+```
+This reads from the sample_logs/ directory and writes results to outputs/.
+
+3. **Run unit tests**
+
+```bash
+python -m unittest backup/tests/test_log_analyzer.py
+```
+
+## Use Cases
+- System administrators parsing server logs.
+- Developers debugging timestamped output files.
+- Automation of recurring diagnostics and reporting.

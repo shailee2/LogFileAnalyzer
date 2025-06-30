@@ -54,3 +54,12 @@ python -m unittest backup/tests/test_log_analyzer.py
 - System administrators parsing server logs.
 - Developers debugging timestamped output files.
 - Automation of recurring diagnostics and reporting.
+
+## About the Developer
+#### Shailee Patel 
+Undergraduate Student, B.S. in Computer Engineering, Minor in Statistics <br>
+University of Illinois Urbana-Champaign (2023 - 2027) <br>
+#### Contact: 
+Email: shaileepatel05@gmail.com <br>
+LinkedIn: linkedin.com/in/shailee-patel-04481b285 <br>
+GitHub: github.com/shailee2
